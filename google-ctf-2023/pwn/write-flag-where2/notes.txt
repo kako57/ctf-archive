@@ -1,0 +1,8 @@
+0x20c6 '/proc/self/mem'
+128
+
+overwrite call to exit
+0x1440 5
+
+then overwrite the string literal at 0x20d5
+0x20d5 128
